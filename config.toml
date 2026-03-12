@@ -1,7 +1,7 @@
 # ------------------------------------- #
 # ---- General Settings --------------- #
 # ------------------------------------- #
-baseURL = "https://example.com"
+baseURL = "https://battle1king.github.io/SF_blog/"
 title = "Den"
 theme = "hugo-theme-den"
 #enableRobotsTXT = true       # generate robots.txt
