@@ -3,7 +3,8 @@
 # ------------------------------------- #
 baseURL = "https://battle1king.github.io/SF_blog/"
 title = "Den"
-theme = "hugo-theme-den"
+#theme = "hugo-theme-den"
+theme = "hugo-theme-cleanwhite" # 换成这个就用 cleanwhite 主题
 #enableRobotsTXT = true       # generate robots.txt
 enableEmoji = true           # use emoji support
 hasCJKLanguage = true        # detect CJK languages for word count etc.
