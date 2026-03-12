@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on My New Hugo Project</title>
-    <link>https://example.org/categories/</link>
+    <link>https://battle1king.github.io/SF_blog/categories/</link>
     <description>Recent content in Categories on My New Hugo Project</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 07 Mar 2018 16:01:23 +0800</lastBuildDate>
-    <atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://battle1king.github.io/SF_blog/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Notes</title>
-      <link>https://example.org/categories/notes/</link>
+      <link>https://battle1king.github.io/SF_blog/categories/notes/</link>
       <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
-      <guid>https://example.org/categories/notes/</guid>
+      <guid>https://battle1king.github.io/SF_blog/categories/notes/</guid>
       <description></description>
     </item>
     <item>
       <title>Demos</title>
-      <link>https://example.org/categories/demos/</link>
+      <link>https://battle1king.github.io/SF_blog/categories/demos/</link>
       <pubDate>Mon, 05 Mar 2018 16:01:23 +0800</pubDate>
-      <guid>https://example.org/categories/demos/</guid>
+      <guid>https://battle1king.github.io/SF_blog/categories/demos/</guid>
       <description></description>
     </item>
   </channel>

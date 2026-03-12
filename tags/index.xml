@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on My New Hugo Project</title>
-    <link>https://example.org/tags/</link>
+    <link>https://battle1king.github.io/SF_blog/tags/</link>
     <description>Recent content in Tags on My New Hugo Project</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 07 Mar 2018 16:01:23 +0800</lastBuildDate>
-    <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://battle1king.github.io/SF_blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Preview</title>
-      <link>https://example.org/tags/preview/</link>
+      <link>https://battle1king.github.io/SF_blog/tags/preview/</link>
       <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
-      <guid>https://example.org/tags/preview/</guid>
+      <guid>https://battle1king.github.io/SF_blog/tags/preview/</guid>
       <description></description>
     </item>
     <item>
       <title>Shortcodes</title>
-      <link>https://example.org/tags/shortcodes/</link>
+      <link>https://battle1king.github.io/SF_blog/tags/shortcodes/</link>
       <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
-      <guid>https://example.org/tags/shortcodes/</guid>
+      <guid>https://battle1king.github.io/SF_blog/tags/shortcodes/</guid>
       <description></description>
     </item>
     <item>
       <title>Tutorial</title>
-      <link>https://example.org/tags/tutorial/</link>
+      <link>https://battle1king.github.io/SF_blog/tags/tutorial/</link>
       <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
-      <guid>https://example.org/tags/tutorial/</guid>
+      <guid>https://battle1king.github.io/SF_blog/tags/tutorial/</guid>
       <description></description>
     </item>
     <item>
       <title>Images</title>
-      <link>https://example.org/tags/images/</link>
+      <link>https://battle1king.github.io/SF_blog/tags/images/</link>
       <pubDate>Mon, 05 Mar 2018 16:01:23 +0800</pubDate>
-      <guid>https://example.org/tags/images/</guid>
+      <guid>https://battle1king.github.io/SF_blog/tags/images/</guid>
       <description></description>
     </item>
     <item>
       <title>Notes</title>
-      <link>https://example.org/tags/notes/</link>
+      <link>https://battle1king.github.io/SF_blog/tags/notes/</link>
       <pubDate>Sun, 04 Mar 2018 16:01:23 +0800</pubDate>
-      <guid>https://example.org/tags/notes/</guid>
+      <guid>https://battle1king.github.io/SF_blog/tags/notes/</guid>
       <description></description>
     </item>
   </channel>
