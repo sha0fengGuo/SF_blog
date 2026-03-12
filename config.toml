@@ -1,171 +1,61 @@
-# ------------------------------------- #
-# ---- General Settings --------------- #
-# ------------------------------------- #
-baseURL = "https://battle1king.github.io/SF_blog/"
-title = "Den"
-#theme = "hugo-theme-den"
-theme = "hugo-theme-cleanwhite" # 换成这个就用 cleanwhite 主题
-#enableRobotsTXT = true       # generate robots.txt
-enableEmoji = true           # use emoji support
-hasCJKLanguage = true        # detect CJK languages for word count etc.
-preserveTaxonomyNames = true # do not make tag names lowercase
-# uglyURLs = true            # more info: https://gohugo.io/content-management/urls/#ugly-urls
-rssLimit = 20                # limit number of entries in RSS feeds
+baseurl = "https://battle1king.github.io/SF_blog/"
+title = "SF Blog"
+theme = "hugo-theme-cleanwhite"
+languageCode = "en-us"
+preserveTaxonomyNames = true
+hasCJKLanguage = true
+enableEmoji = true
 
-# Copyright, appears in the footer
-# copyright = ""             # default: author.name
+[pagination]
+  pagerSize = 10
 
-# Pagination
-# number of entries per page for archives, tags and categories
-# since we don't have list view, recommend a large value
-paginate = 20
-paginatePath = "page"
+[params]
+  header_image = "img/home-bg-jeep.jpg"
+  SEOTitle = "SF Blog"
+  description = "My personal blog built with Hugo"
+  keyword = "blog, Hugo, cleanwhite"
+  slogan = "Welcome to my blog"
 
-# Syntax Hightlight
-PygmentsCodeFences = true
-PygmentsUseClasses = true    # required for shhighlight shortcode
+  image_404 = "img/404-bg.jpg"
+  title_404 = "Page not found :("
+  omit_categories = false
 
-# service plugins
-disqusShortname = ""         # disqus_shortname
-googleAnalytics = ""         # UA-XXXXXXXX-X
+  # Sidebar settings
+  sidebar_about_description = "A personal blog"
+  sidebar_avatar = "img/avatar-zhaohuabing.jpg"
 
-# language support # en / zh-tw / other... translations present in i18n/
-defaultContentLanguage = "en"           # Default language to use
-defaultContentLanguageInSubdir = true
+  featured_tags = true
+  featured_condition_size = 1
 
-# Links format
-[permalinks]
-  posts = "/:year/:month/:day/:slug/"
-  categories = "/category/:slug/"      # required
-  tags = "/tag/:slug/"                 # required
-  pages = "/:slug/"
+  # 打赏功能
+  reward = false
 
-[author]                     # required
-  name = "Jane Doe"
+  friends = false
+  bookmarks = false
+  about_me = true
 
-[sitemap]                    # required
+  [params.social]
+  rss    = true
+  github = "https://github.com/battle1king"
+
+  [[params.additional_menus]]
+  title = "ARCHIVE"
+  href  = "/archive/"
+  [[params.additional_menus]]
+  title = "ABOUT"
+  href  = "/about/"
+
+[sitemap]
   changefreq = "weekly"
   priority = 0.5
   filename = "sitemap.xml"
 
-# ------------------------------------- #
-# ---- Other Params ------------------- #
-# ------------------------------------- #
-
-[params]
-  since = "2017"             # Site creation time
-  rssFullContent = true      # set true to use full content instead of summary
-
-  # site info (optional)
-  keywords = ["Hugo", "theme","den"]
-  description = "A simple theme for Hugo"
-  logoTitle = "Den" # shown on top-left, default: title
-  siteLogoImage = "images/globe.svg"     # shown besides logoTitle
-  # headerTitle = "Den"                   # default: title
-  headerImage = "images/background.jpg"
-  showAuthorCard = true # Whether to show author information below the article
-
-  showMenuLanguages = true
-
-  autoLoadComments = false # auto load comment when scrolling down
-
-  # paginate style, default use numbered pagination links
-  # if true, use original "Previous" and "Next" links.
-  # paginateOriginalStyle = true
-
-  # The date format to use; for a list of valid formats, see https://gohugo.io/functions/format/
-  dateFormatToUse = "2006-01-02"
-
-  google_verification = ""  # Google_Verification
-
-  # Link custom CSS and JS assets
-  #   (relative to /static/css and /static/js respectively)
-  customCSS = []             # if ['custom.css'], load '/static/css/custom.css' file
-  customJS = []              # if ['custom.js'], load '/static/js/custom.js' file
-
-# ------------------------------------- #
-# ---- Related Articles --------------- #
-# ------------------------------------- #
-[related]
-  # Only include matches with rank >= threshold. This is a normalized rank between 0 and 100.
-  threshold = 50
-
-  # To get stable "See also" sections we, by default, exclude newer related pages.
-  includeNewer = true
-
-  # Will lower case keywords in both queries and in the indexes.
-  toLower = false
-
-[[related.indices]]
-  name = "categories"
-  weight = 200
-
-[[related.indices]]
-  name = "keywords"
-  weight = 150
-
-[[related.indices]]
-  name = "tags"
-  weight = 100
-
-
-[languages.en]
-  languageCode = "en"
-  languageName = "English"
-  contentDir = "content/en"
-  weight = 1
-
-  [[languages.en.menu.main]]
-    name = "Notes"
-    weight = 10
-    identifier = "notes"
-    url = "category/notes/"
-  [[languages.en.menu.main]]
-    name = "Demos"
-    weight = 20
-    identifier = "demos"
-    url = "category/demos/"
-
-  [[languages.en.menu.social]]
-    name = "GitHub"
-    weight = 10
-    identifier = "github"
-    url = "https://github.com/shaform/hugo-theme-den/"
-
-  [[languages.en.menu.links]]
-    name = "About Me"
-    weight = 10
-    identifier = "about-me"
-    url = "https://github.com/shaform/hugo-theme-den/"
-
-[languages.zh-tw]
-  languageCode = "zh-tw"
-  languageName = "繁體中文"
-  contentDir = "content/zh-tw"
-  weight = 2
-
-  [languages.zh-tw.params]
-    description = "一個簡單的佈景。"
-
-  [[languages.zh-tw.menu.main]]
-    name = "筆記"
-    weight = 10
-    identifier = "notes"
-    url = "category/notes/"
-  [[languages.zh-tw.menu.main]]
-    name = "展示"
-    weight = 20
-    identifier = "demos"
-    url = "category/demos/"
-
-  [[languages.zh-tw.menu.social]]
-    name = "GitHub"
-    weight = 10
-    identifier = "github"
-    url = "https://github.com/shaform/hugo-theme-den/"
-
-  [[languages.zh-tw.menu.links]]
-    name = "關於我"
-    weight = 10
-    identifier = "about-me"
-    url = "https://github.com/shaform/hugo-theme-den/"
+[markup]
+  [markup.tableOfContents]
+    endLevel = 2
+    startLevel = 1
+  [markup.highlight]
+    style = "dracula"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
