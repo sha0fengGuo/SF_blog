@@ -2,108 +2,108 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SF Blog</title>
-    <link>https://battle1king.github.io/SF_blog/</link>
+    <link>https://sha0fengGuo.github.io/SF_blog/</link>
     <description>Recent content on SF Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 07 Mar 2018 16:01:23 +0800</lastBuildDate>
-    <atom:link href="https://battle1king.github.io/SF_blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sha0fengGuo.github.io/SF_blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://battle1king.github.io/SF_blog/about/</link>
+      <link>https://sha0fengGuo.github.io/SF_blog/about/</link>
       <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
-      <guid>https://battle1king.github.io/SF_blog/about/</guid>
+      <guid>https://sha0fengGuo.github.io/SF_blog/about/</guid>
       <description>&lt;p&gt;Hugo is a static site engine written in Go.&lt;/p&gt;&#xA;&lt;p&gt;It makes use of a variety of open source projects including:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cobra&#34;&gt;Cobra&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/viper&#34;&gt;Viper&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/jWalterWeatherman&#34;&gt;J Walter Weatherman&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cast&#34;&gt;Cast&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Learn more and contribute on &lt;a href=&#34;https://github.com/gohugoio&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>https://battle1king.github.io/SF_blog/en/about/</link>
+      <link>https://sha0fengGuo.github.io/SF_blog/en/about/</link>
       <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
-      <guid>https://battle1king.github.io/SF_blog/en/about/</guid>
+      <guid>https://sha0fengGuo.github.io/SF_blog/en/about/</guid>
       <description>&lt;p&gt;Hugo is a static site engine written in Go.&lt;/p&gt;&#xA;&lt;p&gt;It makes use of a variety of open source projects including:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cobra&#34;&gt;Cobra&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/viper&#34;&gt;Viper&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/jWalterWeatherman&#34;&gt;J Walter Weatherman&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cast&#34;&gt;Cast&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Learn more and contribute on &lt;a href=&#34;https://github.com/gohugoio&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>關於</title>
-      <link>https://battle1king.github.io/SF_blog/zh-tw/about/</link>
+      <link>https://sha0fengGuo.github.io/SF_blog/zh-tw/about/</link>
       <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
-      <guid>https://battle1king.github.io/SF_blog/zh-tw/about/</guid>
+      <guid>https://sha0fengGuo.github.io/SF_blog/zh-tw/about/</guid>
       <description>&lt;p&gt;Hugo 是個靜態網頁產生器。&lt;/p&gt;&#xA;&lt;p&gt;它利用了一些開放原始碼的專案像是：&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cobra&#34;&gt;Cobra&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/viper&#34;&gt;Viper&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/jWalterWeatherman&#34;&gt;J Walter Weatherman&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cast&#34;&gt;Cast&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;了解並貢獻： &lt;a href=&#34;https://github.com/gohugoio&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Den Theme Preview</title>
-      <link>https://battle1king.github.io/SF_blog/en/posts/den-theme-preview/</link>
+      <link>https://sha0fengGuo.github.io/SF_blog/en/posts/den-theme-preview/</link>
       <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
-      <guid>https://battle1king.github.io/SF_blog/en/posts/den-theme-preview/</guid>
+      <guid>https://sha0fengGuo.github.io/SF_blog/en/posts/den-theme-preview/</guid>
       <description>&lt;p&gt;This is a simple preview for styles in Den.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Den Theme Preview</title>
-      <link>https://battle1king.github.io/SF_blog/post/den-theme-preview/</link>
+      <link>https://sha0fengGuo.github.io/SF_blog/post/den-theme-preview/</link>
       <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
-      <guid>https://battle1king.github.io/SF_blog/post/den-theme-preview/</guid>
+      <guid>https://sha0fengGuo.github.io/SF_blog/post/den-theme-preview/</guid>
       <description>&lt;p&gt;This is a simple preview for styles in Den.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Header Image</title>
-      <link>https://battle1king.github.io/SF_blog/en/posts/header-image/</link>
+      <link>https://sha0fengGuo.github.io/SF_blog/en/posts/header-image/</link>
       <pubDate>Mon, 05 Mar 2018 16:01:23 +0800</pubDate>
-      <guid>https://battle1king.github.io/SF_blog/en/posts/header-image/</guid>
+      <guid>https://sha0fengGuo.github.io/SF_blog/en/posts/header-image/</guid>
       <description>&lt;p&gt;This is a simple note.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Header Image</title>
-      <link>https://battle1king.github.io/SF_blog/post/header-image/</link>
+      <link>https://sha0fengGuo.github.io/SF_blog/post/header-image/</link>
       <pubDate>Mon, 05 Mar 2018 16:01:23 +0800</pubDate>
-      <guid>https://battle1king.github.io/SF_blog/post/header-image/</guid>
+      <guid>https://sha0fengGuo.github.io/SF_blog/post/header-image/</guid>
       <description>&lt;p&gt;This is a simple note.&lt;/p&gt;</description>
     </item>
     <item>
       <title>標頭圖片</title>
-      <link>https://battle1king.github.io/SF_blog/zh-tw/posts/header-image/</link>
+      <link>https://sha0fengGuo.github.io/SF_blog/zh-tw/posts/header-image/</link>
       <pubDate>Mon, 05 Mar 2018 16:01:23 +0800</pubDate>
-      <guid>https://battle1king.github.io/SF_blog/zh-tw/posts/header-image/</guid>
+      <guid>https://sha0fengGuo.github.io/SF_blog/zh-tw/posts/header-image/</guid>
       <description>&lt;p&gt;這是一個簡單的筆記。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Note 2</title>
-      <link>https://battle1king.github.io/SF_blog/en/posts/note-2/</link>
+      <link>https://sha0fengGuo.github.io/SF_blog/en/posts/note-2/</link>
       <pubDate>Sun, 04 Mar 2018 16:01:23 +0800</pubDate>
-      <guid>https://battle1king.github.io/SF_blog/en/posts/note-2/</guid>
+      <guid>https://sha0fengGuo.github.io/SF_blog/en/posts/note-2/</guid>
       <description>&lt;p&gt;This is a simple note.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Note 2</title>
-      <link>https://battle1king.github.io/SF_blog/post/note-2/</link>
+      <link>https://sha0fengGuo.github.io/SF_blog/post/note-2/</link>
       <pubDate>Sun, 04 Mar 2018 16:01:23 +0800</pubDate>
-      <guid>https://battle1king.github.io/SF_blog/post/note-2/</guid>
+      <guid>https://sha0fengGuo.github.io/SF_blog/post/note-2/</guid>
       <description>&lt;p&gt;This is a simple note.&lt;/p&gt;</description>
     </item>
     <item>
       <title>筆記 2</title>
-      <link>https://battle1king.github.io/SF_blog/zh-tw/posts/note-2/</link>
+      <link>https://sha0fengGuo.github.io/SF_blog/zh-tw/posts/note-2/</link>
       <pubDate>Sun, 04 Mar 2018 16:01:23 +0800</pubDate>
-      <guid>https://battle1king.github.io/SF_blog/zh-tw/posts/note-2/</guid>
+      <guid>https://sha0fengGuo.github.io/SF_blog/zh-tw/posts/note-2/</guid>
       <description>&lt;p&gt;這是一個簡單的筆記。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Note 1</title>
-      <link>https://battle1king.github.io/SF_blog/en/posts/note-1/</link>
+      <link>https://sha0fengGuo.github.io/SF_blog/en/posts/note-1/</link>
       <pubDate>Sat, 03 Mar 2018 16:01:23 +0800</pubDate>
-      <guid>https://battle1king.github.io/SF_blog/en/posts/note-1/</guid>
+      <guid>https://sha0fengGuo.github.io/SF_blog/en/posts/note-1/</guid>
       <description>&lt;p&gt;This is a simple note.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Note 1</title>
-      <link>https://battle1king.github.io/SF_blog/post/note-1/</link>
+      <link>https://sha0fengGuo.github.io/SF_blog/post/note-1/</link>
       <pubDate>Sat, 03 Mar 2018 16:01:23 +0800</pubDate>
-      <guid>https://battle1king.github.io/SF_blog/post/note-1/</guid>
+      <guid>https://sha0fengGuo.github.io/SF_blog/post/note-1/</guid>
       <description>&lt;p&gt;This is a simple note.&lt;/p&gt;</description>
     </item>
     <item>
       <title>筆記 1</title>
-      <link>https://battle1king.github.io/SF_blog/zh-tw/posts/note-1/</link>
+      <link>https://sha0fengGuo.github.io/SF_blog/zh-tw/posts/note-1/</link>
       <pubDate>Sat, 03 Mar 2018 16:01:23 +0800</pubDate>
-      <guid>https://battle1king.github.io/SF_blog/zh-tw/posts/note-1/</guid>
+      <guid>https://sha0fengGuo.github.io/SF_blog/zh-tw/posts/note-1/</guid>
       <description>&lt;p&gt;這是一個簡單的筆記。&lt;/p&gt;</description>
     </item>
   </channel>

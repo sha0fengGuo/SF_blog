@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Demos on SF Blog</title>
-    <link>https://battle1king.github.io/SF_blog/categories/demos/</link>
+    <link>https://sha0fengGuo.github.io/SF_blog/categories/demos/</link>
     <description>Recent content in Demos on SF Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 05 Mar 2018 16:01:23 +0800</lastBuildDate>
-    <atom:link href="https://battle1king.github.io/SF_blog/categories/demos/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sha0fengGuo.github.io/SF_blog/categories/demos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Header Image</title>
-      <link>https://battle1king.github.io/SF_blog/en/posts/header-image/</link>
+      <link>https://sha0fengGuo.github.io/SF_blog/en/posts/header-image/</link>
       <pubDate>Mon, 05 Mar 2018 16:01:23 +0800</pubDate>
-      <guid>https://battle1king.github.io/SF_blog/en/posts/header-image/</guid>
+      <guid>https://sha0fengGuo.github.io/SF_blog/en/posts/header-image/</guid>
       <description>&lt;p&gt;This is a simple note.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Header Image</title>
-      <link>https://battle1king.github.io/SF_blog/post/header-image/</link>
+      <link>https://sha0fengGuo.github.io/SF_blog/post/header-image/</link>
       <pubDate>Mon, 05 Mar 2018 16:01:23 +0800</pubDate>
-      <guid>https://battle1king.github.io/SF_blog/post/header-image/</guid>
+      <guid>https://sha0fengGuo.github.io/SF_blog/post/header-image/</guid>
       <description>&lt;p&gt;This is a simple note.&lt;/p&gt;</description>
     </item>
     <item>
       <title>標頭圖片</title>
-      <link>https://battle1king.github.io/SF_blog/zh-tw/posts/header-image/</link>
+      <link>https://sha0fengGuo.github.io/SF_blog/zh-tw/posts/header-image/</link>
       <pubDate>Mon, 05 Mar 2018 16:01:23 +0800</pubDate>
-      <guid>https://battle1king.github.io/SF_blog/zh-tw/posts/header-image/</guid>
+      <guid>https://sha0fengGuo.github.io/SF_blog/zh-tw/posts/header-image/</guid>
       <description>&lt;p&gt;這是一個簡單的筆記。&lt;/p&gt;</description>
     </item>
   </channel>
