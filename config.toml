@@ -1,4 +1,4 @@
-baseurl = "https://battle1king.github.io/SF_blog/"
+baseurl = "https://sha0fengGuo.github.io/SF_blog/"
 title = "SF Blog"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
@@ -36,7 +36,7 @@ enableEmoji = true
 
   [params.social]
   rss    = true
-  github = "https://github.com/battle1king"
+  github = "https://github.com/sha0fengGuo"
 
   [[params.additional_menus]]
   title = "ARCHIVE"

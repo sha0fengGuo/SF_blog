@@ -4,8 +4,8 @@
 
 这是一个基于 **Hugo** 静态网站生成器的博客项目，使用 `hugo-theme-cleanwhite` 主题，通过 **GitHub Actions** 自动部署到 **GitHub Pages**。
 
-- **仓库地址**: https://github.com/battle1king/SF_blog
-- **网站地址**: https://battle1king.github.io/SF_blog/
+- **仓库地址**: https://github.com/sha0fengGuo/SF_blog
+- **网站地址**: https://sha0fengGuo.github.io/SF_blog/
 
 ---
 
@@ -141,16 +141,33 @@ SF_blog/
 ## 常见问题
 
 ### Q: 推送后网站没更新？
-1. 打开 https://github.com/battle1king/SF_blog/actions 查看 Actions 是否成功
+1. 打开 https://github.com/sha0fengGuo/SF_blog/actions 查看 Actions 是否成功
 2. 如果失败，点击进去查看错误日志
 
 ### Q: 本地预览正常但线上样式不对？
-检查 `config.toml` 里的 `baseurl` 是否正确设置为 `https://battle1king.github.io/SF_blog/`
+检查 `config.toml` 里的 `baseurl` 是否正确设置为 `https://sha0fengGuo.github.io/SF_blog/`
 
 ### Q: 文章写了但网站上看不到？
 检查文章头部的 `draft` 是否设为 `false`
 
 ### Q: 如何绑定自定义域名？
 1. 在 GitHub 仓库 Settings → Pages → Custom domain 填入你的域名
-2. 在域名 DNS 中添加 CNAME 记录指向 `battle1king.github.io`
+2. 在域名 DNS 中添加 CNAME 记录指向 `sha0fengGuo.github.io`
 3. 修改 `config.toml` 中的 `baseurl` 为你的域名
+
+
+你的文章日期是 2026-03-15，但今天是 3月13日。Hugo 默认不显示未来日期的文章。
+
+两个解决办法，任选一个：
+
+方法1：把日期改为今天或之前
+
+
+date: 2026-03-13
+方法2：启动时加参数显示未来文章
+
+
+hugo server -D -F
+-D = 显示草稿，-F = 显示未来日期的文章
+
+建议用方法1，把日期改成实际写作日期就
