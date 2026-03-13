@@ -106,5 +106,12 @@
       <guid>https://sha0fengGuo.github.io/SF_blog/zh-tw/posts/note-1/</guid>
       <description>&lt;p&gt;這是一個簡單的筆記。&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Posts Archive</title>
+      <link>https://sha0fengGuo.github.io/SF_blog/archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sha0fengGuo.github.io/SF_blog/archive/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
